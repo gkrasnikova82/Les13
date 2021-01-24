@@ -1,0 +1,195 @@
+янв. 14, 2021 10:20:19 PM com.company.Main main
+INFO: Начало main, создаем лист с типизацией Integers
+янв. 14, 2021 10:39:53 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:39:53 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 10:39:53 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 10:39:53 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:40:30 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:40:30 PM com.company.Main main
+INFO: Старт считывания файла products.txt
+янв. 14, 2021 10:40:30 PM com.company.Main main
+INFO: Окончание считывания файла products.txt
+янв. 14, 2021 10:40:30 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:41:23 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:41:24 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:44:41 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:44:41 PM com.company.Main main
+WARNING: Ошибка при открытии или чтении файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 10:44:41 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:46:25 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:46:25 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 10:46:25 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:53:27 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:53:27 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 10:53:27 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:57:27 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:57:27 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 10:58:20 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 10:58:20 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 10:58:20 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 11:05:03 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 11:05:03 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 11:05:03 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 14, 2021 11:14:27 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 14, 2021 11:14:27 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 14, 2021 11:14:27 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 5:09:50 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 5:09:50 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 5:09:50 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 5:10:49 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 5:10:49 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 5:10:49 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 5:47:41 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 5:47:41 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 5:47:41 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 5:50:45 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 5:50:45 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 5:51:56 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 5:51:57 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 5:51:57 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 6:14:18 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 6:14:19 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 6:14:19 PM com.company.Main main
+SEVERE: Старт считывания файла products.txt
+янв. 24, 2021 6:14:19 PM com.company.Main main
+INFO: Завершение программы Main
+янв. 24, 2021 6:18:05 PM com.company.Main main
+INFO: Начало Main, создание объектов для чтения файла products.txt
+янв. 24, 2021 6:18:05 PM com.company.Main main
+WARNING: Ошибка при поиске файла
+java.io.FileNotFoundException: C:\SomeDir\products.txt (Не удается найти указанный файл)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:211)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:153)
+	at java.base/java.io.FileReader.<init>(FileReader.java:75)
+	at com.company.Main.main(Main.java:32)
+
+янв. 24, 2021 6:18:05 PM com.company.Main main
+INFO: Завершение программы Main
